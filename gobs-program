@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo 'Run program? (Y/N)'
+read answer 
+if [ $answer = 'Y' ]
+then 
+    for (( ; ; ))
+    do
+        echo -n "Penus "
+    done
+fi
